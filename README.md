@@ -9,11 +9,7 @@
 
 ###
 
-<img align="left" height="200" src="https://imgur.com/0hmp5li.gif"  />
-
-###
-
-<div align="left">
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
@@ -37,7 +33,7 @@
 
 ###
 
-<div align="left">
+<div align="center">
   <a href="https://www.instagram.com/pedroraposo_02/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
   </a>
@@ -55,10 +51,3 @@
 
 <img src="https://raw.githubusercontent.com/PedroRaposo02/PedroRaposo02/output/snake.svg" alt="Snake animation" />
 
-###
-
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=PedroRaposo02.PedroRaposo02&"  />
-</div>
-
-###
