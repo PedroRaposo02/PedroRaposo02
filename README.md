@@ -9,20 +9,7 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=PedroRaposo02&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&cache_seconds=86400" height="150" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=PedroRaposo02&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=dracula&hide_border=false&cache_seconds=86400" height="150" alt="languages graph" />
-</div>
-
-###
-
-<div align="center">
   <img src="https://streak-stats.demolab.com?user=PedroRaposo02&theme=dracula&hide_border=false&date_format=j%20M%5B%20Y%5D" height="150" alt="streak stats" />
-</div>
-
-###
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=PedroRaposo02&theme=dracula&no-frame=false&no-bg=false&margin-w=4&column=7" alt="trophies" />
 </div>
 
 ###
@@ -78,13 +65,3 @@
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
 </div>
-
-###
-
-<br clear="both">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/PedroRaposo02/PedroRaposo02/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/PedroRaposo02/PedroRaposo02/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/PedroRaposo02/PedroRaposo02/output/github-contribution-grid-snake.svg">
-</picture>
