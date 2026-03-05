@@ -14,9 +14,13 @@
 
 ###
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=PedroRaposo02&theme=dracula&hide_border=false&area=true" alt="activity graph" />
-</div>
+<br clear="both">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/PedroRaposo02/PedroRaposo02/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/PedroRaposo02/PedroRaposo02/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/PedroRaposo02/PedroRaposo02/output/github-contribution-grid-snake.svg">
+</picture>
 
 ###
 
